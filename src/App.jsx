@@ -534,6 +534,17 @@ function App() {
 
                 <div className="flex items-start gap-4">
                   <div className="p-3 bg-brand-gray-light rounded-lg text-brand-wine mt-1 border border-gray-200">
+                    <Mail size={22} />
+                  </div>
+                  <div>
+                    <h5 className="font-semibold text-brand-gray-dark text-sm">Correo Electrónico</h5>
+                    <a href="mailto:ARSINarsinsadecv@outlook.com" className="text-base font-bold text-brand-wine hover:underline block mt-1">ARSINarsinsadecv@outlook.com</a>
+                    <span className="text-xs text-brand-gray font-light">Escríbenos para dudas y cotizaciones.</span>
+                  </div>
+                </div>
+
+                <div className="flex items-start gap-4">
+                  <div className="p-3 bg-brand-gray-light rounded-lg text-brand-wine mt-1 border border-gray-200">
                     <MapPin size={22} />
                   </div>
                   <div>
