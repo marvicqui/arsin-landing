@@ -779,7 +779,7 @@ function App() {
               </p>
               <p className="flex items-center gap-2">
                 <Mail size={16} className="text-brand-gold shrink-0" />
-                <span>contacto@arsin.com.mx</span>
+                <a href="mailto:ARSINarsinsadecv@outlook.com" className="hover:underline">ARSINarsinsadecv@outlook.com</a>
               </p>
             </div>
           </div>
