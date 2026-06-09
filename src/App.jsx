@@ -222,7 +222,7 @@ function App() {
               Certeza jurídica y respaldo profesional en cada paso
             </h1>
             <p className="text-lg sm:text-xl text-gray-200 font-light max-w-2xl leading-relaxed">
-              En ARSIN combinamos la experiencia de más de 10 años en el ramo inmobiliario con un profundo dominio de la gestoría legal y notarial en Coatzacoalcos, Veracruz.
+              Consultoría Patrimonial, Servicios Inmobiliarios Integrales y Gestoría Legal Corporativa. Más de 10 años brindando certeza jurídica, agilidad y estricto cumplimiento normativo en Veracruz.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
               <a 
@@ -331,32 +331,32 @@ function App() {
                   <div className="p-3 bg-brand-wine/10 rounded-lg">
                     <Home size={26} />
                   </div>
-                  Servicios Inmobiliarios
+                  Servicios Especializados Inmobiliarios
                 </div>
                 <p className="text-brand-gray font-light text-sm mb-8 leading-relaxed">
-                  Facilitamos las operaciones de arrendamiento y compra-venta con total transparencia y seguridad para propietarios e inquilinos.
+                  Asesoría, diagnóstico legal e intermediación para la desincorporación, adquisición u optimización de portafolios inmobiliarios.
                 </p>
 
                 <ul className="space-y-6">
                   <li className="flex gap-4">
-                    <div className="text-brand-wine-light mt-1"><Key size={20} /></div>
-                    <div>
-                      <h4 className="font-semibold text-brand-gray-dark text-base">Arrendamiento Seguro</h4>
-                      <p className="text-brand-gray text-sm font-light mt-1">Investigación integral de prospectos, blindaje con contratos legales y administración de rentas mensuales.</p>
-                    </div>
-                  </li>
-                  <li className="flex gap-4">
                     <div className="text-brand-wine-light mt-1"><Building size={20} /></div>
                     <div>
-                      <h4 className="font-semibold text-brand-gray-dark text-base">Compra, Venta y Promoción</h4>
-                      <p className="text-brand-gray text-sm font-light mt-1">Comercialización profesional de propiedades residenciales, comerciales e industriales bajo valores justos de mercado.</p>
+                      <h4 className="font-semibold text-brand-gray-dark text-base">Consultoría de Activos y Propiedades</h4>
+                      <p className="text-brand-gray text-sm font-light mt-1">Asesoría en la administración, valuación comercial, análisis de viabilidad y optimización de portafolios inmobiliarios corporativos.</p>
                     </div>
                   </li>
                   <li className="flex gap-4">
                     <div className="text-brand-wine-light mt-1"><ShieldCheck size={20} /></div>
                     <div>
-                      <h4 className="font-semibold text-brand-gray-dark text-base">Administración de Inmuebles</h4>
-                      <p className="text-brand-gray text-sm font-light mt-1">Gestión completa de mantenimiento preventivo, cobranza periódica y enlace directo con inquilinos.</p>
+                      <h4 className="font-semibold text-brand-gray-dark text-base">Debida Diligencia Patrimonial (Due Diligence)</h4>
+                      <p className="text-brand-gray text-sm font-light mt-1">Investigación y diagnóstico del estatus legal, fiscal y catastral de terrenos y edificaciones para asegurar transacciones libres de riesgo.</p>
+                    </div>
+                  </li>
+                  <li className="flex gap-4">
+                    <div className="text-brand-wine-light mt-1"><Key size={20} /></div>
+                    <div>
+                      <h4 className="font-semibold text-brand-gray-dark text-base">Intermediación y Gestión de Activos</h4>
+                      <p className="text-brand-gray text-sm font-light mt-1">Coordinación operativa para el arrendamiento, desincorporación o adquisición estratégica de bienes raíces comerciales, industriales o residenciales.</p>
                     </div>
                   </li>
                 </ul>
@@ -379,32 +379,32 @@ function App() {
                   <div className="p-3 bg-brand-wine/10 rounded-lg">
                     <Scale size={26} />
                   </div>
-                  Servicios Legales y Notariales
+                  Apoyo Operativo y Gestoría Legal
                 </div>
                 <p className="text-brand-gray font-light text-sm mb-8 leading-relaxed">
-                  Damos soporte y asesoría integral para que cada trámite y documento cumpla cabalmente con las regulaciones de ley correspondientes.
+                  Soporte integral y enlace ante dependencias públicas y notarías para acelerar la regularización y cierre de tus trámites corporativos.
                 </p>
 
                 <ul className="space-y-6">
                   <li className="flex gap-4">
                     <div className="text-brand-wine-light mt-1"><FileText size={20} /></div>
                     <div>
-                      <h4 className="font-semibold text-brand-gray-dark text-base">Gestoría Ante Notarías</h4>
-                      <p className="text-brand-gray text-sm font-light mt-1">Coordinación de escrituraciones, poderes notariales, testamentos y cotejo de documentos con absoluta rapidez.</p>
+                      <h4 className="font-semibold text-brand-gray-dark text-base">Tramitología Gubernamental y Municipal</h4>
+                      <p className="text-brand-gray text-sm font-light mt-1">Integración de expedientes, ingreso y seguimiento de trámites de licencias de construcción, uso de suelo, alineamientos, números oficiales y permisos ambientales.</p>
                     </div>
                   </li>
                   <li className="flex gap-4">
                     <div className="text-brand-wine-light mt-1"><Scale size={20} /></div>
                     <div>
-                      <h4 className="font-semibold text-brand-gray-dark text-base">Elaboración de Contratos</h4>
-                      <p className="text-brand-gray text-sm font-light mt-1">Confección y revisión técnica de contratos de compraventa, comodato, fideicomisos y actas corporativas.</p>
+                      <h4 className="font-semibold text-brand-gray-dark text-base">Enlace Notarial y Registral</h4>
+                      <p className="text-brand-gray text-sm font-light mt-1">Gestión operativa ante el Registro Público de la Propiedad, Catastro y notarías públicas para la formalización expedita de escrituras, hipotecas, fusiones o subdivisiones.</p>
                     </div>
                   </li>
                   <li className="flex gap-4">
                     <div className="text-brand-wine-light mt-1"><ShieldCheck size={20} /></div>
                     <div>
-                      <h4 className="font-semibold text-brand-gray-dark text-base">Asesoría Legal e Inmobiliaria</h4>
-                      <p className="text-brand-gray text-sm font-light mt-1">Dictamen de escrituras, regularización de predios intestados o con gravamen y prevención de fraudes inmobiliarios.</p>
+                      <h4 className="font-semibold text-brand-gray-dark text-base">Regularización de Activos</h4>
+                      <p className="text-brand-gray text-sm font-light mt-1">Regularización y saneamiento de propiedades con rezagos administrativos, omisiones fiscales inmobiliarias (predial, agua) o problemas de titulación.</p>
                     </div>
                   </li>
                 </ul>
@@ -415,7 +415,7 @@ function App() {
                   href="#contacto" 
                   className="inline-flex items-center gap-2 text-brand-wine font-semibold hover:text-brand-wine-light text-sm"
                 >
-                  Solicitar asesoría legal <ArrowRight size={16} />
+                  Solicitar gestoría legal <ArrowRight size={16} />
                 </a>
               </div>
             </div>
@@ -440,10 +440,7 @@ function App() {
               <div className="w-16 h-1 bg-brand-wine rounded"></div>
               
               <p className="text-brand-gray font-light text-base leading-relaxed">
-                Fundada formalmente el <strong>29 de octubre de 2014</strong> en el corazón de Coatzacoalcos, Veracruz, <strong>ARSIN</strong> (Arrendamientos y Servicios Inmobiliarios y Notariales S.A. de C.V.) nació con la misión de llenar una brecha crítica en el mercado local: la falta de seguridad jurídica integral en las transacciones de bienes raíces.
-              </p>
-              <p className="text-brand-gray font-light text-base leading-relaxed">
-                A lo largo de más de 10 años, hemos consolidado una red confiable de asesores legales, peritos valuadores y notarios aliados. Esto nos permite garantizar que cada contrato que firmamos y cada propiedad que comercializamos cuenten con el sustento legal óptimo, libre de vicios o problemas futuros.
+                Somos una firma especializada en brindar soluciones integrales de consultoría inmobiliaria y servicios de apoyo logístico para la ejecución de trámites legales y administrativos. Nos dedicamos a salvaguardar y optimizar el patrimonio de nuestros clientes mediante la gestión estratégica de activos inmobiliarios, la mitigación de riesgos en transacciones comerciales y la aceleración de trámites ante dependencias gubernamentales. Actuamos como el brazo operativo de empresas, inversionistas y particulares, garantizando certeza jurídica, agilidad y estricto cumplimiento normativo en cada proyecto.
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-4">
@@ -471,24 +468,24 @@ function App() {
                   <div className="flex gap-4">
                     <div className="w-8 h-8 rounded-full bg-brand-gold/20 flex items-center justify-center text-brand-gold shrink-0 font-bold">1</div>
                     <div>
-                      <h5 className="font-semibold text-sm">Experiencia Comprobada</h5>
-                      <p className="text-xs text-gray-200 mt-1 font-light">Más de una década gestionando con éxito arrendamientos complejos y apoyando trámites ante notarios.</p>
+                      <h5 className="font-semibold text-sm">Certeza y Blindaje Jurídico</h5>
+                      <p className="text-xs text-gray-200 mt-1 font-light">Analizamos minuciosamente cada componente legal e inmobiliario para asegurar que las inversiones de nuestros clientes operen sobre bases firmes.</p>
                     </div>
                   </div>
                   
                   <div className="flex gap-4">
                     <div className="w-8 h-8 rounded-full bg-brand-gold/20 flex items-center justify-center text-brand-gold shrink-0 font-bold">2</div>
                     <div>
-                      <h5 className="font-semibold text-sm">Prevención de Riesgos Legales</h5>
-                      <p className="text-xs text-gray-200 mt-1 font-light">Análisis de solvencia de inquilinos y dictámenes rigurosos de estatus registral de propiedades.</p>
+                      <h5 className="font-semibold text-sm">Reducción de Tiempos (Time-to-Market)</h5>
+                      <p className="text-xs text-gray-200 mt-1 font-light">Nuestra experiencia y conocimiento de los flujos institucionales nos permiten destrabar y acelerar la obtención de permisos y trámites burocráticos complejos.</p>
                     </div>
                   </div>
 
                   <div className="flex gap-4">
                     <div className="w-8 h-8 rounded-full bg-brand-gold/20 flex items-center justify-center text-brand-gold shrink-0 font-bold">3</div>
                     <div>
-                      <h5 className="font-semibold text-sm">Ubicación y Calidez Local</h5>
-                      <p className="text-xs text-gray-200 mt-1 font-light">Atención presencial en Coatzacoalcos Centro y conocimiento profundo de las notarías de la zona.</p>
+                      <h5 className="font-semibold text-sm">Ventanilla Única Patrimonial</h5>
+                      <p className="text-xs text-gray-200 mt-1 font-light">Fusionamos el conocimiento técnico del mercado inmobiliario con la capacidad operativa de la gestoría legal, ofreciendo una solución de principio a fin sin intermediarios.</p>
                     </div>
                   </div>
                 </div>
@@ -500,6 +497,129 @@ function App() {
               </div>
             </div>
 
+          </div>
+        </div>
+      </section>
+
+      {/* EXPERIENCIA DESTACADA / LÍNEAS DE TRABAJO */}
+      <section id="experiencia" className="py-24 bg-white border-t border-gray-200">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <span className="inline-block px-3 py-1 rounded-full bg-brand-wine/10 text-brand-wine text-xs font-semibold uppercase tracking-wider mb-3">
+              Trayectoria y Resultados
+            </span>
+            <h2 className="text-3xl sm:text-4xl font-bold text-brand-gray-dark">
+              Experiencia Destacada en Proyectos de Alto Nivel
+            </h2>
+            <div className="w-20 h-1 bg-brand-wine mx-auto mt-4 mb-6 rounded"></div>
+            <p className="text-brand-gray text-base sm:text-lg font-light leading-relaxed">
+              Ejemplos prácticos de los desafíos patrimoniales y administrativos que resolvemos con éxito para nuestros clientes corporativos e inversionistas.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {/* Project 1 */}
+            <div className="p-6 rounded-2xl bg-brand-gray-light border border-gray-200/80 shadow-sm hover:shadow-md transition-shadow space-y-4">
+              <div className="w-12 h-12 rounded-xl bg-brand-wine/10 text-brand-wine flex items-center justify-center font-bold text-lg font-serif">
+                01
+              </div>
+              <h4 className="font-serif font-bold text-lg text-brand-gray-dark">
+                Regularización y Certificación de Carteras Inmobiliarias
+              </h4>
+              <p className="text-brand-gray text-sm font-light leading-relaxed">
+                Diagnóstico y saneamiento de los títulos de propiedad, alineamientos y licencias de un portafolio de inmuebles comerciales para una organización corporativa, logrando el cumplimiento normativo al 100%.
+              </p>
+            </div>
+
+            {/* Project 2 */}
+            <div className="p-6 rounded-2xl bg-brand-gray-light border border-gray-200/80 shadow-sm hover:shadow-md transition-shadow space-y-4">
+              <div className="w-12 h-12 rounded-xl bg-brand-wine/10 text-brand-wine flex items-center justify-center font-bold text-lg font-serif">
+                02
+              </div>
+              <h4 className="font-serif font-bold text-lg text-brand-gray-dark">
+                Gestoría de Permisos para Desarrollos Comerciales
+              </h4>
+              <p className="text-brand-gray text-sm font-light leading-relaxed">
+                Coordinación de la tramitología legal de inicio a fin ante dependencias locales y estatales para la obtención de licencias de uso de suelo e impacto ambiental para nuevos proyectos de infraestructura.
+              </p>
+            </div>
+
+            {/* Project 3 */}
+            <div className="p-6 rounded-2xl bg-brand-gray-light border border-gray-200/80 shadow-sm hover:shadow-md transition-shadow space-y-4">
+              <div className="w-12 h-12 rounded-xl bg-brand-wine/10 text-brand-wine flex items-center justify-center font-bold text-lg font-serif">
+                03
+              </div>
+              <h4 className="font-serif font-bold text-lg text-brand-gray-dark">
+                Soporte Logístico en Transacciones de Gran Volumen
+              </h4>
+              <p className="text-brand-gray text-sm font-light leading-relaxed">
+                Ejecución del proceso de due diligence y gestión registral acelerada para la compraventa de naves industriales o terrenos de gran escala, asegurando que el cierre notarial se realizara sin contratiempos.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* METODOLOGÍA DE OPERACIÓN */}
+      <section id="metodologia" className="py-24 bg-brand-gray-light border-y border-gray-200">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <span className="inline-block px-3 py-1 rounded-full bg-brand-wine/10 text-brand-wine text-xs font-semibold uppercase tracking-wider mb-3">
+              Nuestro Proceso
+            </span>
+            <h2 className="text-3xl sm:text-4xl font-bold text-brand-gray-dark">
+              Metodología de Operación Eficiente
+            </h2>
+            <div className="w-20 h-1 bg-brand-wine mx-auto mt-4 mb-6 rounded"></div>
+            <p className="text-brand-gray text-base sm:text-lg font-light leading-relaxed">
+              Trazamos una ruta crítica clara y transparente desde el primer día para resolver tus requerimientos de forma ágil y coordinada.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            {/* Step 1 */}
+            <div className="relative p-6 rounded-2xl bg-white border border-gray-200 shadow-sm space-y-3">
+              <span className="absolute right-4 top-4 text-3xl font-bold font-serif text-brand-gold/25">01</span>
+              <h4 className="font-serif font-bold text-base text-brand-wine">
+                Diagnóstico Patrimonial
+              </h4>
+              <p className="text-brand-gray text-xs font-light leading-relaxed">
+                Revisamos a detalle la documentación del inmueble o los requerimientos del trámite legal solicitado para identificar riesgos o faltantes.
+              </p>
+            </div>
+
+            {/* Step 2 */}
+            <div className="relative p-6 rounded-2xl bg-white border border-gray-200 shadow-sm space-y-3">
+              <span className="absolute right-4 top-4 text-3xl font-bold font-serif text-brand-gold/25">02</span>
+              <h4 className="font-serif font-bold text-base text-brand-wine">
+                Estrategia y Ruta Crítica
+              </h4>
+              <p className="text-brand-gray text-xs font-light leading-relaxed">
+                Trazamos un plan de acción con los pasos exactos, costos estimados y dependencias involucradas para resolver el caso con la mayor eficiencia.
+              </p>
+            </div>
+
+            {/* Step 3 */}
+            <div className="relative p-6 rounded-2xl bg-white border border-gray-200 shadow-sm space-y-3">
+              <span className="absolute right-4 top-4 text-3xl font-bold font-serif text-brand-gold/25">03</span>
+              <h4 className="font-serif font-bold text-base text-brand-wine">
+                Gestión y Ejecución
+              </h4>
+              <p className="text-brand-gray text-xs font-light leading-relaxed">
+                Integramos los expedientes técnicos/legales y realizamos las gestiones presenciales o digitales ante las autoridades correspondientes.
+              </p>
+            </div>
+
+            {/* Step 4 */}
+            <div className="relative p-6 rounded-2xl bg-white border border-gray-200 shadow-sm space-y-3">
+              <span className="absolute right-4 top-4 text-3xl font-bold font-serif text-brand-gold/25">04</span>
+              <h4 className="font-serif font-bold text-base text-brand-wine">
+                Entrega y Cierre Jurídico
+              </h4>
+              <p className="text-brand-gray text-xs font-light leading-relaxed">
+                Entregamos al cliente los títulos, licencias o documentos debidamente inscritos, validados y con plena validez legal.
+              </p>
+            </div>
           </div>
         </div>
       </section>
